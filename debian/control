@@ -22,6 +22,11 @@ Recommends: netrunner-artwork-aurorae-themes,
 	artwork-desktop-theme-sevenified,
 	lnf-theme-blackx,
 	lnf-theme-bluex,
-	artwork-audacious
+	artwork-audacious,
+	aurorae-theme-win7,
+	aurorae-theme-metrodark,
+	aurorae-theme-gnome3,
+	aurorae-theme-forman,
+	aurorae-theme-carbon
 Description: Metapackage for Artwork
   This metapackage provides the default artwork.
