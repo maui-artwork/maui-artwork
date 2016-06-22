@@ -1,14 +1,13 @@
-Source: default-artwork
+Source: maui-artwork
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
-Package: default-artwork
+Package: maui-artwork
 Architecture: all
-Recommends: netrunner-artwork-aurorae-themes,
-	wallpapers-extrapack-2,
+Recommends: wallpapers-extrapack-2,
 	artwork-color-scheme-carbon,
 	artwork-whiteclassicia-cursor,
 	artwork-windows-cursor,
